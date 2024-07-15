@@ -25,7 +25,7 @@ public class WeightRecognitionTest {
                 new Layer(1, 900),
                 new Layer(2, 1800)
         );
-Ï
+
         List<Goods> goodsList = Arrays.asList(
                 new Goods("000001", 100),
                 new Goods("000002", 200)
