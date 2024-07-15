@@ -24,7 +24,6 @@
     <modules>
         <module>weight-recognition-core</module>
         <module>weight-recognition-rest</module>
-        <module>weight-recognition-common</module>
     </modules>
     <scm>
         <connection/>

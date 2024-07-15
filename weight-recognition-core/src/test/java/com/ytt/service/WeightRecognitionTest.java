@@ -1,11 +1,8 @@
 package com.ytt.service;
 
-import com.ytt.common.enums.ExceptionEnum;
-import com.ytt.common.exception.RecognitionException;
 import com.ytt.common.rest.RecognitionResult;
 import com.ytt.dto.Goods;
 import com.ytt.dto.Layer;
-import com.ytt.dto.RecognitionItem;
 import com.ytt.dto.Stock;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

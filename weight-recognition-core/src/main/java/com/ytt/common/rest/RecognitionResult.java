@@ -6,6 +6,9 @@ import lombok.Data;
 
 import java.util.List;
 
+/**
+ * 统一返回体积
+ */
 @Data
 public class RecognitionResult {
     private boolean successful;
