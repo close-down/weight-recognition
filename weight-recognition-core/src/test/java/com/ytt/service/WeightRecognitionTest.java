@@ -34,6 +34,7 @@ public class WeightRecognitionTest {
                 new Stock("000002", 2, 10)
         );
 
+
         VendingMachineRecognizer recognizer = new VendingMachineRecognizer();
         RecognitionResult result = recognizer.recognize(initialWeights, finalWeights, goodsList, stockList);
 
