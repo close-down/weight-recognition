@@ -28,6 +28,7 @@ public class WeightRecognitionTest {
                 new Goods("000002", 200)
         );
 
+
         List<Stock> stockList = Arrays.asList(
                 new Stock("000001", 1, 10),
                 new Stock("000002", 2, 10)
